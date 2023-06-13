@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 👋
 
-<!--
-**DyanaAltomani/DyanaAltomani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Dyana Braga
 
-Here are some ideas to get you started:
+- Sou professora de Matemática, Química, Robótica e Programação.
+- Estou estudando na Alura.
+- Estou aprofundando meus conhecimentos na linguagem de programação.
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você consegue entrar em contato comigo 📫
+
+dyana.altomani@escola.pr.gov.br
+
+@dyanaaltomani
+
+![](https://media.tenor.com/1IGqto94QrkAAAAM/manufacturing-technology.gif)
